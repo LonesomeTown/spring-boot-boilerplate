@@ -5,6 +5,7 @@
 
 # Exclude build and IDE directories
 target/
+!target/*.jar
 out/
 build/
 .gradle/
@@ -20,12 +21,10 @@ build/
 mvnw
 mvnw.cmd
 HELP.md
-target/
 mvn-*.xml
 
 # Exclude Gradle-related files
 gradle/
-build/
 
 # Exclude test reports and generated documentation
 test-reports/
@@ -35,4 +34,3 @@ jacoco/
 # Exclude Docker-related files (if applicable)
 Dockerfile
 docker-compose.yml
-.dockerignore

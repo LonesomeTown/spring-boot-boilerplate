@@ -1,5 +1,3 @@
-![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/springboot-boilerplate.jpg)
-
 # Spring-Boot BoilerPlate
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -19,8 +17,8 @@ Spring Boot Boilerplate is an advanced foundation designed to facilitate the dev
 
 ## Installation
 ```
-$ git clone https://github.com/rimmelasghar/SpringBoot-boilerPlate.git
-$ cd SpringBoot-boilerPlate
+$ git clone https://github.com/LonesomeTown/spring-boot-boilerplate.git
+$ cd spring-boot-boilerplate
 ```
 
 Make sure you have docker and docker-compose installed [docker installation guide](https://docs.docker.com/compose/install/)
@@ -99,6 +97,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 
-Reach out to me ```rimmelasghar4@gmail.com```
+Reach out to me ```t.wangzhimin@gmail.com```
 
-made by Rimmel Asghar with ❤️
+made by Tony Wang with ❤️
